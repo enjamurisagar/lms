@@ -7,8 +7,6 @@ type FeaturedCoursesCardType = {
   actualPrice?: number;
   price?: number;
 };
-import Timer from "../../assets/home/timer.png";
-import Hat from "../../assets/home/hat.png";
 
 import { RiGraduationCapFill } from "react-icons/ri";
 import { RiTimerLine } from "react-icons/ri";
